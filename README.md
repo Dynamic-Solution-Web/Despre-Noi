@@ -11,4 +11,3 @@ Dynamic Solution Web iți poate configura un design personalizat pentru site-ul 
  Începe acum să crești și în online. Profitul este garantat ! <br><br>
       Dynamic Solution Web - Îți punem afacerea în ONLINE !🎖<br>
       https://dynamicsolutionweb.com/<br>
-![logo-ds-web]([https://myoctocat.com/assets/images/base-octocat.svg](https://dynamicsolutionweb.com/img/about.jpg))
